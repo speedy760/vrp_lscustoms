@@ -1,4 +1,4 @@
 hello
-you can post your sql base for VRP custom because i  want to setup manually
+you can post your sql base for VRP custom because i have erreur with base sql and i  want to setup manually
 
 thx
